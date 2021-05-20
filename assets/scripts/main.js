@@ -12,7 +12,7 @@ close.forEach(function (close) {
     content.classList.add("animate__fadeOutUp")
 
     setTimeout(()=>  {
-      location.href = '/'
+      location.href = '/ranking-2'
     }, 600);
 
     
